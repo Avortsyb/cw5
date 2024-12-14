@@ -1,0 +1,6 @@
+@ContentManagementService_HostAddress = http://localhost:5212
+
+GET {{ContentManagementService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
